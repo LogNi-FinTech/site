@@ -1,8 +1,16 @@
 ## Welcome to LogNi FinTech
 
-You can use the [editor on GitHub](https://github.com/LogNi-FinTech/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+LogNi FinTech is an Open Source Cloud Native FinTech Platform.
+We provide open source and enterprise fintech micro service and consultation to any tech company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Any technology company can be a fintech company. 
+
+### We provide 
+ ## 1. Open Source Cloud Native Micro Services
+ ## 2. Enterprise service
+ ## 3. Software development consultation
+ ## 4. Software support 
+
 
 ### Markdown
 
