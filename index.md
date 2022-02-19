@@ -5,11 +5,11 @@ We provide open source and enterprise fintech micro service and consultation to 
 
 Any technology company can be a fintech company. 
 
-### We provide 
- ## 1. Open Source Cloud Native Micro Services
- ## 2. Enterprise service
- ## 3. Software development consultation
- ## 4. Software support 
+## We provide 
+ ### 1. Open Source Cloud Native Micro Services
+ ### 2. Enterprise service
+ ### 3. Consultation (development & support) 
+ 
 
 
 ### Markdown
