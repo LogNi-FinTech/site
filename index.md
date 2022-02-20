@@ -3,43 +3,58 @@
 LogNi FinTech is an Open Source Cloud Native FinTech Platform.
 We provide open source and enterprise fintech micro service and consultation to any tech company.
 
-Any technology company can be a fintech company. 
-
-## We provide 
- ### 1. Open Source Cloud Native Micro Services
- ### 2. Enterprise service
- ### 3. Consultation (development & support) 
+We believe any technology company can be a fintech company. Future financial (Banking & FinTech) product will be open source cloud native and easily customizable.
  
+## Our Product:
+- Open Source Cloud Native FinTech Services
 
+## Our Service:
+- Product Development
+- Customization
+- Implementation 
+- Consultation
+- Support
+- Training
+- Service customization, integration/orchestration
+- Service security, regulatory control and auditing  
 
-### Markdown
+## Industries
+- Bank
+- FinTech company
+- WealthTech
+- Open Banking
+- e-Wallet
+- Digital Banking
+- Neo Banking
+- Payment Platform
+- Lending 
+- Investment
+- BNPL
+- Payment Processor
+- Any tech company who want to receive, store and disburse money
+- embeded finance
+- BaaS ( Bank as a Service)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Architecture
 
-```markdown
-Syntax highlighted code block
+## Service Components
+- Account & Ledger (Scalable ledger & balance and transaction system for holding, receiving & sending money) 
+- Notification ( OTP,SMS,Email,Push)
+- Loyalty ( Loyalty Management cash back and loyalty points)
+- Authentication & Authorization
+- Payement / Merchant System for receiving Payment from wallet/account
+- Open (Banking) Api
+- Payment Gateway ( receive payment from merchant)
+- Third Party Integration
+- Customer KYC ( Storing Customer Data)
+- Deposit (Deposit Product with configuration based on different interest rate)
+- Credit  (Lending/Credit Management)
 
-# Header 1
-## Header 2
-### Header 3
+## Demo
+- Sample Mobile App
+- BackOffice Interface
+- Api document
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LogNi-FinTech/site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: lognifintech@gmail.com
