@@ -23,12 +23,12 @@ We believe any technology company can be a fintech company. Future financial (Ba
 
 ## Industries
 - Bank
-- FinTech company
-- WealthTech
-- Open Banking
+- FinTech 
 - e-Wallet
+- WealthTech
 - Digital Banking
 - Neo Banking
+- Open Banking
 - Payment Platform
 - Lending 
 - Investment
