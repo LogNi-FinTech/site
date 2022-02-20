@@ -62,7 +62,7 @@ We believe any technology company can be a fintech company. Future financial (Ba
 
 ## Demo
 - White Lebel Mobile App 
-   - https://github.com/LogNi-FinTech/mobile-app-screen/blob/main/README.md
+   - (https://github.com/LogNi-FinTech/mobile-app-screen/blob/main/README.md)
 - BackOffice web Interface
 - API Doc
 
