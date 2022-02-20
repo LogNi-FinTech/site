@@ -9,16 +9,17 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Open Source Cloud Native FinTech Services
 
 ## Our Service:
-- Product Development partner
-- Customization & enhancement
+- Product Development Partner
+- Customization & Enhancement
 - Implementation 
 - Consultation
 - Support
 - Training
-- Service integration/orchestration
-- Implement security, regulatory control and auditing 
-- Implement monotoring and observability 
-- Optimization, Performance Improvement and Scalability support  
+- Service Integration/Orchestration
+- Implement Security, Regulatory control and Auditing 
+- Implement monitoring and observability 
+- Optimization, Performance Improvement and Scalability Support
+ 
 
 ## Industries
 - Bank
@@ -34,7 +35,7 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - BNPL
 - Payment Processor
 - Any tech company who want to receive, store and disburse money
-- embedded finance
+- Embedded finance
 - BaaS (Bank as a Service)  
 
 ## Architecture
@@ -44,13 +45,19 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Notification ( OTP,SMS,Email,Push)
 - Loyalty ( Loyalty Management cash back and loyalty points)
 - Authentication & Authorization
-- Payement / Merchant System for receiving Payment from wallet/account
+- Payment / Merchant System
 - Open (Banking) Api
-- Payment Gateway ( receive payment from merchant)
+- Payment Gateway (receive payment from merchant)
 - Third Party Integration
-- Customer KYC ( Storing Customer Data)
-- Deposit (Deposit Product with configuration based on different interest rate)
-- Credit  (Lending/Credit Management)
+- Customer KYC
+- Deposit/Savings
+- Group Savings
+- Credit/Lending
+- Fraud Management
+- Distribution & Agent management
+- Credit Scoring
+- Payroll 
+- Virtual Card (Debit/Credit)
 
 ## Demo
 - Sample Mobile App
@@ -58,5 +65,4 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - API Doc
 
 ### Contact
-
 Email: lognifintech@gmail.com
