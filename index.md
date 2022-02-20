@@ -9,14 +9,16 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Open Source Cloud Native FinTech Services
 
 ## Our Service:
-- Product Development
-- Customization
+- Product Development partner
+- Customization & enhancement
 - Implementation 
 - Consultation
 - Support
 - Training
-- Service customization, integration/orchestration
-- Service security, regulatory control and auditing  
+- Service integration/orchestration
+- Implement security, regulatory control and auditing 
+- Implement monotoring and observability 
+- Optimization, Performance Improvement and Scalability support  
 
 ## Industries
 - Bank
@@ -32,13 +34,13 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - BNPL
 - Payment Processor
 - Any tech company who want to receive, store and disburse money
-- embeded finance
-- BaaS ( Bank as a Service)  
+- embedded finance
+- BaaS (Bank as a Service)  
 
 ## Architecture
 
 ## Service Components
-- Account & Ledger (Scalable ledger & balance and transaction system for holding, receiving & sending money) 
+- Account/wallet & Ledger System (Scalable ledger & balance and transaction system for holding, receiving & sending money) 
 - Notification ( OTP,SMS,Email,Push)
 - Loyalty ( Loyalty Management cash back and loyalty points)
 - Authentication & Authorization
@@ -52,8 +54,8 @@ We believe any technology company can be a fintech company. Future financial (Ba
 
 ## Demo
 - Sample Mobile App
-- BackOffice Interface
-- Api document
+- BackOffice web Interface
+- API Doc
 
 ### Contact
 
