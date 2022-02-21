@@ -25,6 +25,8 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Bank
 - FinTech 
 - e-Wallet
+- BNPL
+- Virtual Card
 - WealthTech
 - Digital Banking
 - Neo Banking
@@ -32,7 +34,6 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Payment Platform
 - Lending 
 - Investment
-- BNPL
 - Payment Processor
 - Any tech company who want to receive, store and disburse money
 - Embedded finance
