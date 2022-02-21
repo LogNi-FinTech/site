@@ -40,7 +40,7 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - BaaS (Bank as a Service)  
 
 ## Architecture
-![Architecture](https://github.com/LogNi-FinTech/site/blob/gh-pages/lognifintech-architecture.jpg)
+![Architecture](https://logni-fintech.github.io/site/lognifintech-architecture.jpg)
 
 ## Service Components
 - Account/wallet & Ledger System (Scalable ledger & balance and transaction system for holding, receiving & sending money) 
@@ -63,7 +63,7 @@ We believe any technology company can be a fintech company. Future financial (Ba
 
 ## Demo
 - White Lebel Mobile App 
-   - (https://github.com/LogNi-FinTech/mobile-app-screen/blob/main/README.md)
+   - (https://logni-fintech.github.io/mobile-app-screen/README.md)
 - BackOffice web Interface
 - API Doc
 
