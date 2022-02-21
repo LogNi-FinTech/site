@@ -62,7 +62,7 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Virtual Card (Debit/Credit)
 
 ## Demo
-- [White Lebel Mobile App](../../../mobile-app-screen/blob/main/README.md)
+- [White Lebel Mobile App](https://github.com/LogNi-FinTech/mobile-app-screen/blob/main/README.md)
 - BackOffice web Interface
 - API Doc
 
