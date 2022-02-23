@@ -46,6 +46,7 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Account/wallet & Ledger System (Scalable ledger & balance and transaction system for holding, receiving & sending money) 
 - Notification ( OTP,SMS,Email,Push)
 - Loyalty ( Loyalty Management cash back and loyalty points)
+- Event & ticket Management
 - Authentication & Authorization
 - Payment / Merchant System
 - Open (Banking) Api
