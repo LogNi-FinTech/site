@@ -48,12 +48,13 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Loyalty ( Loyalty Management cash back and loyalty points)
 - Authentication & Authorization
 - Payment / Merchant System
-- Open (Banking) Api
+- Open (Banking) API
 - Payment Gateway (receive payment from merchant)
 - Third Party Integration
 - Customer KYC
 - Deposit/Savings
 - Group Savings
+- Asset Management & Trading (Stock,Bond,Token)
 - Credit/Lending
 - Fraud Management
 - Distribution & Agent management
