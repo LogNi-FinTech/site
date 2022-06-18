@@ -49,14 +49,14 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Event & ticket Management
 - Authentication & Authorization
 - Payment / Merchant System
-- Open (Banking) Api
+- Open (Banking) API
 - Payment Gateway (receive payment from merchant)
 - Third Party Integration
 - Customer KYC
 - Deposit/Savings
 - Group Savings
 - Credit/Lending
-- Fraud Management
+- Asset Management & Trading ( Stock, Bond, Token) 
 - Distribution & Agent management
 - Credit Scoring
 - Payroll 
