@@ -24,6 +24,8 @@ We believe any technology company can be a fintech company. Future financial (Ba
 ## Industries
 - Bank
 - FinTech 
+- MFI/MFS
+- Mobile Banking
 - e-Wallet
 - BNPL
 - Virtual Card
@@ -44,6 +46,8 @@ We believe any technology company can be a fintech company. Future financial (Ba
 
 ## Service Components (Building Blocks) 
 - Account/wallet & Ledger System (Scalable ledger & balance and transaction system for holding, receiving & sending money) 
+- Back Office/Administrative Operation
+- Agent & Distribution Channel Management
 - Notification ( OTP,SMS,Email,Push)
 - Loyalty ( Loyalty Management cash back and loyalty points)
 - Event & ticket Management
@@ -56,7 +60,7 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Deposit/Savings
 - Group Savings
 - Credit/Lending
-- Asset Management & Trading ( Stock, Bond, Token) 
+- Asset Management & Trading (Stock, Bond, Token) 
 - Distribution & Agent management
 - Credit Scoring
 - Payroll 
