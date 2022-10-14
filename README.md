@@ -1,4 +1,4 @@
-## Welcome to LogNi FinTech
+## Welcome to LoogNi FinTech
 
 LogNi FinTech is an Open Source Cloud Native FinTech Platform.
 We provide open source and enterprise fintech micro service and consultation to any tech company.
