@@ -1,6 +1,6 @@
-## Welcome to LogNi FinTech
+## Welcome to LoogNi FinTech (LooFi)
 
-LogNi FinTech is an Open Source Cloud Native FinTech Platform.
+LoogNi FinTech is an Open Source Cloud Native FinTech Platform.
 We provide open source and enterprise fintech micro services (the building blocks of fintech echo system) and consultation to any tech company.
 
 We believe any technology company can be a fintech company. Future financial (Banking & FinTech) product will be open source cloud native and easily customizable.
@@ -49,7 +49,7 @@ We believe any technology company can be a fintech company. Future financial (Ba
 - Back Office/Administrative Operation
 - Agent & Distribution Channel Management
 - Notification ( OTP,SMS,Email,Push)
-- Loyalty ( Loyalty Management cash back and loyalty points)
+- Loyalty (Loyalty Management cash back and loyalty points)
 - Event & ticket Management
 - Authentication & Authorization
 - Payment / Merchant System
