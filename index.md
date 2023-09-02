@@ -1,12 +1,16 @@
-## Welcome to LoogNi FinTech (LooFi)
+## LoogNi FinTech (LooFi)
 
-LoogNi FinTech is an Open Source Cloud Native FinTech Platform.
-We provide open source and enterprise fintech micro services (the building blocks of fintech echo system) and consultation to any tech company.
+LoogNi FinTech is an Open Source Cloud Native FinTech Platform for Digital wallet, Digital Payment & Digital Bank.
+We provide open source and enterprise fintech platform and consultation to any tech company.
 
-We believe any technology company can be a fintech company. Future financial (Banking & FinTech) product will be open source cloud native and easily customizable.
  
 ## Our Product:
-- Open Source Cloud Native FinTech Services
+- Open Source Cloud Native FinTech building blocks
+- Open Source Digitla Wallet
+- Open Source Payment System
+- Open Source Digital Banking Platform
+- Open Source Mobile Banking
+  
 
 ## Our Service:
 - Product Development Partner
